@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.komeiji-shiki.top/posts/6eed87e0.html</loc>
+    
+    <lastmod>2024-05-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.komeiji-shiki.top/posts/824ac3d0.html</loc>
     
     <lastmod>2024-03-30</lastmod>
@@ -256,22 +265,22 @@
 
   <url>
     <loc>https://www.komeiji-shiki.top/</loc>
-    <lastmod>2024-04-14</lastmod>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://www.komeiji-shiki.top/tags/Touhou/</loc>
-    <lastmod>2024-04-14</lastmod>
+    <loc>https://www.komeiji-shiki.top/tags/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.komeiji-shiki.top/tags/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2024-04-14</lastmod>
+    <loc>https://www.komeiji-shiki.top/tags/Touhou/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -279,15 +288,15 @@
 
   
   <url>
-    <loc>https://www.komeiji-shiki.top/categories/Touhou/</loc>
-    <lastmod>2024-04-14</lastmod>
+    <loc>https://www.komeiji-shiki.top/categories/%E5%8E%86%E5%8F%B2/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.komeiji-shiki.top/categories/%E5%8E%86%E5%8F%B2/</loc>
-    <lastmod>2024-04-14</lastmod>
+    <loc>https://www.komeiji-shiki.top/categories/Touhou/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
